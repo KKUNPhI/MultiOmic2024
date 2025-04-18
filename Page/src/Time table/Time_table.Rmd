@@ -1,0 +1,13 @@
+---
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+![](T1.png)
+
+![](T2.png)
+
+![](T3.png)
+
+![](T4.png)

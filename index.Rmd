@@ -1,0 +1,65 @@
+---
+editor_options:
+  markdown:
+    wrap: 72
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+
+
+![](Page/elements/img/Logo/Logo_Multi-omics_1.png)
+
+------------------------------------------------------------------------
+
+## [Time table](Page/src/Time%20table/Time_table.html)
+
+------------------------------------------------------------------------
+
+## **Exhibitors**
+
+[![](./Page/elements/img/Exhibitors/Gibthai.jpg)](https://www.gibthai.com/)
+
+[![](./Page/elements/img/Exhibitors/Biodesign.jpeg)](https://www.biodesign.co.th/)
+
+[![](./Page/elements/img/Exhibitors/Bruker.png)](https://www.bruker.com/en.html)
+
+[![](./Page/elements/img/Exhibitors/Genomax.png)](https://www.genomaxtech.com)
+
+[![](./Page/elements/img/Exhibitors/WTE.jpeg)](https://worldtechenterprise.com)
+
+[![](./Page/elements/img/Exhibitors/DKSH.png)](https://www.dksh.com/th-en/home)
+
+------------------------------------------------------------------------
+
+## Table of Contents
+
+-   [UNIX](./Page/elements/contents/02%20UNIX%20session/Content/UNIX_Document.html)
+
+-   [Experimental design and analytical planing](./Page/elements/contents/01%20Experimental%20design/Content/HandsOn.html)
+
+-   [R programing](./Page/elements/contents/03%20R%20session/Content/Rdocument.html)
+
+-   [Python](./Page/elements/contents/04%20Python/Content/Content.html)
+
+-   [Genomics](./Page/elements/contents/05%20Genomics/Content/Content.html)
+
+-   [Transcriptomics](./Page/elements/contents/06%20Transcriptomics/Content/RNA.html)
+
+-   [Metabolomics](./Page/elements/contents/07%20Metabolomics/Content/Introduction.html)
+
+-   [Proteomics](./Page/elements/contents/08%20Proteomics/Content/Introduction.html)
+
+-   [CRISPR](./Page/elements/contents/09%20CRISPR/Content/Content.html)
+
+-   [Microbiome](./Page/elements/contents/10%20Microbiome/Content/Microbiome.html)
+
+-   [Data integration](./Page/elements/contents/11%20Data%20integration/Content/Content.html)
+
+------------------------------------------------------------------------
+
+![](Page/elements/img/Logo/Logo_Multi-omics_2.png)![](Page/elements/img/Logo/Logo_Multi-omics_3.png)
+
