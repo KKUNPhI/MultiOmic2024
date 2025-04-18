@@ -3,4 +3,4 @@
 
 ![Logo MutiOmics](./Page/elements/img/Logo/Logo_Multi-omics_1.png)
 
-[https://kkupc.github.io/MultiOmics2024/](https://kkupc.github.io/MultiOmics2024/)
+[Home page]([https://kkupc.github.io/MultiOmics2024/](https://kkunphi.github.io/MultiOmic2024/))
